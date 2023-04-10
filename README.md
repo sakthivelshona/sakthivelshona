@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shona Sakthivel
 - 👀 I’m interested in Deep Learning and Data Science Projects
 - 🌱 I’m currently pursuing B.Tech - Arificial Intelligence and Data Science
-- 💞️ I’m looking for good AI and DL based projects
+- 💞️ I’m looking for good Deep Learning based projects
 - 📫 How to reach me : shona.ad21@bitsathy.ac.in
 
 Looking forward to learn Deep learning..!!
