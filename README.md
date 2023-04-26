@@ -4,7 +4,7 @@
 - 💞️ I’m looking for good Deep Learning based projects
 - 📫 How to reach me : shona.ad21@bitsathy.ac.in
 
-Looking forward to learn Deep learning..!!
+Looking forward to learn ...!!
 
 <!---
 sakthivelshona/sakthivelshona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
