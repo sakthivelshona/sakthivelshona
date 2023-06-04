@@ -5,6 +5,7 @@
 - 📫 How to reach me : shona.ad21@bitsathy.ac.in
 
 Looking forward to learn ...!!
+[Download my resume](https://sakthivelshona.github.io/resume/SHONA RESUME)
 
 <!---
 sakthivelshona/sakthivelshona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
