@@ -7,7 +7,7 @@
 Looking forward to learn ...!!
 
 
-[ My Resume](https://github.com/sakthivelshona/resume/blob/main/SHONA%20RESUME.pdf)
+[ My Resume](https://github.com/sakthivelshona/resume/blob/main/Shona%20Resume.pdf)
 
 <!---
 sakthivelshona/sakthivelshona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
