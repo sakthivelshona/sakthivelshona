@@ -5,7 +5,7 @@
 - 📫 How to reach me : shona.ad21@bitsathy.ac.in
 
 
-[ My Resume](https://github.com/sakthivelshona/resume/blob/main/Shona%20Resume.pdf)
+[ My Resume](https://github.com/sakthivelshona/resume/blob/main/SHONA_S_CV.pdf)
 
 [ My Portfolio](https://sakthivelshona.github.io/)
 
