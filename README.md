@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Shona Sakthivel<br>👀 I’m interested in Web Development and Machine Learning Projects<br>🌱 I’m currently pursuing B.Tech - Arificial Intelligence and Data Science<br>💞️ I’m looking for Internship opportunities<br>📫 How to reach me : shona.ad21@bitsathy.ac.in<br><br>My portfolio : https://sakthivelshona.github.io/
+👋 Hi, I’m Shona Sakthivel<br>👀 I’m interested in Web Development and Machine Learning Projects<br>🌱 I’m currently pursuing B.Tech - Arificial Intelligence and Data Science<br>💞️ Integration Engineer<br>📫 How to reach me : shona.ad21@bitsathy.ac.in<br><br>My portfolio : https://sakthivelshona.github.io/
 
 
 ## 🌐 Socials:
